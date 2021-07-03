@@ -1,0 +1,13 @@
+C:\Users\Isai\source\repos\Grafica\Grafica\obj\Debug\Grafica.csprojAssemblyReference.cache
+C:\Users\Isai\source\repos\Grafica\Grafica\obj\Debug\Grafica.Properties.Resources.resources
+C:\Users\Isai\source\repos\Grafica\Grafica\obj\Debug\Grafica.csproj.GenerateResource.cache
+C:\Users\Isai\source\repos\Grafica\Grafica\obj\Debug\Grafica.csproj.CoreCompileInputs.cache
+C:\Users\Isai\source\repos\Grafica\Grafica\bin\Debug\Grafica.exe.config
+C:\Users\Isai\source\repos\Grafica\Grafica\bin\Debug\Grafica.exe
+C:\Users\Isai\source\repos\Grafica\Grafica\bin\Debug\Grafica.pdb
+C:\Users\Isai\source\repos\Grafica\Grafica\bin\Debug\OpenTK.dll
+C:\Users\Isai\source\repos\Grafica\Grafica\bin\Debug\OpenTK.pdb
+C:\Users\Isai\source\repos\Grafica\Grafica\bin\Debug\OpenTK.xml
+C:\Users\Isai\source\repos\Grafica\Grafica\obj\Debug\Grafica.csproj.CopyComplete
+C:\Users\Isai\source\repos\Grafica\Grafica\obj\Debug\Grafica.exe
+C:\Users\Isai\source\repos\Grafica\Grafica\obj\Debug\Grafica.pdb
